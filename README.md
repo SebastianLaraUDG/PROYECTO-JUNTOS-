@@ -2,4 +2,4 @@
 Proyecto en GDevelop del videojuego "Juntos"
 
 
-Aquí encontrarás el progreso del videojuego "Juntos" en el departamento de programación. Todo lo que respecta al archivo .json que contiene las mecánicas principales del juego (personajes, objetos, eventos, etc) se encuentra aquí.
+Aquí encontrarás los documentos que definen, dan forma y dirección al desarrollo de "Juntos".
