@@ -1,0 +1,1 @@
+Carpeta con las diferentes versiones de las mecánicas del proyecto en GDevelop
