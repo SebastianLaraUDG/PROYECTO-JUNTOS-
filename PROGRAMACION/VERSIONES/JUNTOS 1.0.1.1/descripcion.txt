@@ -1,1 +1,2 @@
 Primer avance de las mecánicas del juego JUNTOS en GDevelop
+La versión 1.0.1.1 contiene solo movimientos básicos del lobo y ataque
