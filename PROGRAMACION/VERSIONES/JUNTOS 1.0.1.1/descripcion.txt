@@ -1,0 +1,1 @@
+Primer avance de las mecánicas del juego JUNTOS en GDevelop
